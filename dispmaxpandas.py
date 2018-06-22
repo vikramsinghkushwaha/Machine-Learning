@@ -9,3 +9,4 @@ df['Daily_change'] = ((df['Adj. Close'] - df['Adj. Open']) / df['Adj. Open']) * 
 pd.set_option('display.max_columns', None)
 df = df[['HL_PCT', 'Daily_change', 'Adj. Close', 'Adj. Volume']]
 print(df.head())
+#The code ensuures that the columns are displayed to its maximum by adding a simple setting option function.
