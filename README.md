@@ -1,2 +1,2 @@
 # Machine-Learning
-Theis repository vontains the codes or the programs of varois algorithms that one may find on mavhine learning.
+Theis repository vontains the codes or the programs of various algorithms that one may find on machine learning.
